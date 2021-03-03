@@ -4,8 +4,9 @@ Identify the Question asked on Quora is Duplicate of Questions which are already
 Eg: 1 
 
 i.e. 
-     Q1: Is Johnny Depp a wife beater?
-     Q2: Does johnny depp beats his wife ?
+     
+     Q1: Does johnny depp beats his wife ?
+     Q2: Is Johnny Depp a wife beater?
      Ans : Simillar
     
 Eg 2:
