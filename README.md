@@ -24,3 +24,6 @@ Eg 2:
 .If eg: Q1 and Q2 are Duplicates then we can transfer the Answers from Q1 to Q2 which are already given by people.
 
 Source : https://www.kaggle.com/c/quora-question-pairs
+
+Subplot:xlabel='is_duplicate'>
+Subplot:xlabel='is_duplicate'>
