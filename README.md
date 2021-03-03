@@ -3,7 +3,7 @@ Identify the Question asked on Quora is Duplicate of Questions which are already
 
 Eg: 1 
 
-i.e. 
+
      
      Q1: Does johnny depp beats his wife ?
      Q2: Is Johnny Depp a wife beater?
@@ -11,11 +11,10 @@ i.e.
     
 Eg 2:
 
-i.e. 
-     Q1: Who is the highest paid actor in Hollywood currently?
 
-     Q2: Who is the highest paid actor currently?
-     
+
+     Q1: Who is the highest paid actor currently?
+     Q2: Who is the highest paid actor in Hollywood currently?
     Ans: Not Simillar
     
  ## Our Task
