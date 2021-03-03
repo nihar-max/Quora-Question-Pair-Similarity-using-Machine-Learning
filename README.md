@@ -25,5 +25,3 @@ Eg 2:
 
 Source : https://www.kaggle.com/c/quora-question-pairs
 
-Subplot:xlabel='is_duplicate'>
-Subplot:xlabel='is_duplicate'>
