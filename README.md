@@ -41,20 +41,19 @@ Source : https://www.kaggle.com/c/quora-question-pairs
 
 #### NLP model TF-IDF Weighted W2V
 ![image](https://user-images.githubusercontent.com/61958476/115406146-8800e780-a20c-11eb-84cd-4f4d5d1a0a91.png)
+![image](https://user-images.githubusercontent.com/61958476/115406241-9c44e480-a20c-11eb-924e-2d7e93ad2b99.png)
 
 
+### SGD Classifier
+![image](https://user-images.githubusercontent.com/61958476/115406322-af57b480-a20c-11eb-8bc8-121a1efc9683.png)
+![image](https://user-images.githubusercontent.com/61958476/115406346-b4b4ff00-a20c-11eb-89d5-a4d73614c425.png)
 
 
+### Decision Tree
+![image](https://user-images.githubusercontent.com/61958476/115406406-c26a8480-a20c-11eb-90a9-10c201461e0b.png)
+![image](https://user-images.githubusercontent.com/61958476/115406427-c8f8fc00-a20c-11eb-9aaa-a217b410bb8c.png)
 
 
-
-
-
-
-
-
-
-
-
-
+### Compare 2 models
+![image](https://user-images.githubusercontent.com/61958476/115406473-d4e4be00-a20c-11eb-8c0e-367eebffb827.png)
 
