@@ -30,4 +30,31 @@ Source : https://www.kaggle.com/c/quora-question-pairs
 
 ![image](https://user-images.githubusercontent.com/61958476/115405718-22146000-a20c-11eb-9d16-638d972cc235.png)
 
+#### Load Datasets
+![image](https://user-images.githubusercontent.com/61958476/115405933-50923b00-a20c-11eb-8d88-965d74000497.png)
+
+#### EDA
+![image](https://user-images.githubusercontent.com/61958476/115405985-5ee05700-a20c-11eb-9344-99cf4830991e.png)
+
+#### Text Preprocessing
+![image](https://user-images.githubusercontent.com/61958476/115406075-76b7db00-a20c-11eb-94b7-061d46727a7f.png)
+
+#### NLP model TF-IDF Weighted W2V
+![image](https://user-images.githubusercontent.com/61958476/115406146-8800e780-a20c-11eb-84cd-4f4d5d1a0a91.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
