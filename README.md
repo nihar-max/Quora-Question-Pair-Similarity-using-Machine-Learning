@@ -1,4 +1,4 @@
-# Quora-Question-Pair-Similarity-using-Machine-Learning
+# Quora-Question-Pair-Similarity
 
 Identify the Question asked on Quora is Duplicate of Questions which are already asked...
 
@@ -25,4 +25,9 @@ Eg 2:
 .If eg: Q1 and Q2 are Duplicates then we can transfer the Answers from Q1 to Q2 which are already given by people.
 
 Source : https://www.kaggle.com/c/quora-question-pairs
+
+### Workflow
+
+![image](https://user-images.githubusercontent.com/61958476/115405718-22146000-a20c-11eb-9d16-638d972cc235.png)
+
 
